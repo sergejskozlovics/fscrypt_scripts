@@ -6,4 +6,7 @@ It will create two scripts mount_<your_dir_alias>.sh and umount_<your_dir_alias>
 
 The ./after_reboot.sh script can be used to mount all encrypted directories after the server reboot.
 
+See also: [How To Encrypt and Securely Backup Directories in Ubuntu](https://sergejskozlovics.medium.com/how-to-encrypt-and-securely-backup-directories-in-ubuntu-727ea9362049) (my medium.com article)
+
+
 
